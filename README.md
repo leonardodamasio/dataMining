@@ -23,4 +23,4 @@ leoleonardo1996@hotmail.com
 
 (11) 98783-3949
 
-![](https://cdn.lynda.com/course/578072/578072-636342597357960762-16x9.jpg)
+![](https://en.ryte.com/wiki/nsfr_img_auth.php/4/41/Datamining-01.png)
