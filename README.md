@@ -1,5 +1,5 @@
-# dataMining
-Programação de **_Técnicas de Mineração de Dados_** em Python.
+# textMining
+Programação de **_Técnicas de Mineração de Texto_** em Python.
 
 **_Leonardo Damasio_**
 
@@ -7,7 +7,7 @@ Programação de **_Técnicas de Mineração de Dados_** em Python.
 
 Antes de tudo, obrigado pelo interesse em meu repositório!
 
-Estas são algumas das **_Técnicas de Mineração de Dados_** que aprendi a realizar ao longo da minha jornada em **_Data Science_**. 
+Estas são algumas das **_Técnicas de Mineração de Texto_** que aprendi a realizar ao longo da minha jornada em **_Data Science_**. 
 
 Você também encontrará as bases utilizadas para realizar cada modelo. 
 
